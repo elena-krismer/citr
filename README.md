@@ -16,6 +16,8 @@ addin](https://rstudio.github.io/rstudioaddins/) to search a BibTeX-file
 to create and insert formatted Markdown citations into the current
 document.
 
+## Modification: loads bibtex from Github repository instead of CRAN to avoid compatibility issues
+
 ## Installation
 
 ~~You can either use the stable version of `citr` from CRAN,~~ Due to an intermittently orphaned dependency, `citr` is currently not on CRAN. Due to continuing SARS-CoV-2 related lockdowns, I'm having trouble allocating time to a resubmission. In the meantime, please install `citr` from this GitHub repository (see below).
